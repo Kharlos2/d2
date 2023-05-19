@@ -215,6 +215,206 @@
             "stock": "35",
             "proveedor": "Hunts",
             "descripcion": "Tomate pelado enlatado en lata de 400 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/13174404/Pure-De-Papas-656702_a.jpg?v=637899447016500000",
+            "nombre": "Puré de papa instantáneo",
+            "precio": "3,500",
+            "stock": "40",
+            "proveedor": "Mashed",
+            "descripcion": "Puré de papa instantáneo en sobre de 385 g"
+        },
+        {
+            "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/191772/8850367300013-1.jpg?v=637814015468530000",
+            "nombre": "Pasta de curry",
+            "precio": "4,800",
+            "stock": "25",
+            "proveedor": "Mae Ploy",
+            "descripcion": "Pasta de curry tailandés en frasco de 50 g"
+        },
+        {
+            "imagen": "https://www.recetasjudias.com/wp-content/uploads/2015/06/Pepinos-Agridulces2.jpg",
+            "nombre": "Pepinillos en vinagre",
+            "precio": "3,200",
+            "stock": "30",
+            "proveedor": "Conservas del Mar",
+            "descripcion": "Pepinillos en vinagre en frasco de 250 g"
+        },
+        {
+            "imagen": "https://www.momandme.nestle.com/sites/default/files/styles/card_medium_mobile_product/public/content_image/arroz-200g_.png?itok=P9pBsKiP",
+            "nombre": "Cereal de arroz",
+            "precio": "3,500",
+            "stock": "50",
+            "proveedor": "Nestle",
+            "descripcion": "Cereal de arroz enriquecido en paquete de 400 g"
+        },
+        {
+            "imagen": "https://supermercadosla80.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUNzaFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0066e8e40d21b8b14c2778acf82ae870d912f80/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/mozzarella-tajado-500g.png?locale=es",
+            "nombre": "Queso mozzarella",
+            "precio": "7,200",
+            "stock": "40",
+            "proveedor": "Colanta",
+            "descripcion": "Queso mozzarella 30 tajadas"
+        },
+        {
+            "imagen": "https://lacocinademasito.com/wp-content/uploads/Galletas-de-mantequilla-2.jpg",
+            "nombre": "Galletas de mantequilla",
+            "precio": "3,200",
+            "stock": "60",
+            "proveedor": "Dulces Tentaciones",
+            "descripcion": "Galletas de mantequilla en paquete de 250 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/13176771-800-auto?v=637899573285200000&width=800&height=auto&aspect=true",
+            "nombre": "Salsa de mostaza",
+            "precio": "2,000",
+            "stock": "50",
+            "proveedor": "Heinz",
+            "descripcion": "Salsa de mostaza en frasco de 255 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/16416339-800-auto?v=638107800755700000&width=800&height=auto&aspect=true",
+            "nombre": "Leche descremada",
+            "precio": "2,500",
+            "stock": "70",
+            "proveedor": "Alquería",
+            "descripcion": "Leche descremada bolsa de 1.1 L"
+        },
+        {
+            "imagen": "https://carulla.vtexassets.com/arquivos/ids/8066925/JUGO-MANZANA-PREMIUM-BOTELLA-126544_a.jpg?v=637900107124100000",
+            "nombre": "Jugo de manzana",
+            "precio": "4,200",
+            "stock": "45",
+            "proveedor": "California",
+            "descripcion": "Jugo de manzana natural en envase de 900 ml"
+        },
+        {
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIMKm_zP8qI_XZy1THk8bPBhJYiPHMQo6ing&usqp=CAU",
+            "nombre": "Sardinas en lata",
+            "precio": "2,800",
+            "stock": "40",
+            "proveedor": "Paco Fish",
+            "descripcion": "Sardinas en lata en salsa de tomate"
+        },
+        {
+            "imagen": "https://alimec.com.ec/mc-cormick/wp-content/uploads/2017/05/maple-original.png",
+            "nombre": "Miel de maple",
+            "precio": "9,500",
+            "stock": "25",
+            "proveedor": "McCormick",
+            "descripcion": "Miel de maple auténtica en frasco de 600 ml"
+        },
+        {
+            "imagen": "https://lh3.googleusercontent.com/az9d9MWbkTJ5YrIb1-bR5xbDoZ5C8QEqJNcwPF7-WAB1opG3E1qSo053fbQR31yLtLXiVSYlBgPt7wslVseYVSYb9GeDfXhrOKg",
+            "nombre": "Papitas fritas de pollo",
+            "precio": "2,200",
+            "stock": "35",
+            "proveedor": "Margarita",
+            "descripcion": "Papitas fritas clásicas en paquete de 30 g"
+        },
+        {
+            "imagen": "data:image/jpeg;base64,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",
+            "nombre": "Arroz integral",
+            "precio": "4,500",
+            "stock": "40",
+            "proveedor": "Roa",
+            "descripcion": "Arroz integral en paquete de 1 kg"
+        },
+        {
+            "imagen": "https://i0.wp.com/pastaio.co/wp-content/uploads/2020/09/aceite-oliva-rocchi-750ml-min.jpg?fit=938%2C1098&ssl=1",
+            "nombre": "Aceite de oliva",
+            "precio": "9,800",
+            "stock": "35",
+            "proveedor": "Rocchi",
+            "descripcion": "Aceite de oliva extra virgen en botella de 750 ml"
+        },
+        {
+            "imagen": "https://jotajotafoods.com/wp-content/uploads/2022/02/SAL00011.jpg",
+            "nombre": "Pasta de ají",
+            "precio": "3,200",
+            "stock": "50",
+            "proveedor": "Coexito",
+            "descripcion": "Pasta de ají amarillo en frasco de 215 g"
+        },
+        {
+            "imagen": "https://vaquitaexpress.com.co/media/catalog/product/cache/e89ece728e3939ca368b457071d3c0be/7/7/7702001163892_23.jpg",
+            "nombre": "Yogur griego",
+            "precio": "2,500",
+            "stock": "60",
+            "proveedor": "Alpina",
+            "descripcion": "Yogur griego natural en envase de 1000 g"
+        },
+        {
+            "imagen": "https://www.javirecetas.com/wp-content/uploads/2022/07/salsa-barbacoa-600x900.jpg",
+            "nombre": "Salsa de barbacoa",
+            "precio": "3,000",
+            "stock": "45",
+            "proveedor": "Salsas Exóticas",
+            "descripcion": "Salsa de barbacoa ahumada en botella de 350 ml"
+        },
+        {
+            "imagen": "https://dumbosalsa.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOU1PVHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c9d15691d5de185544fed39882910985c050264/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/Harina%20De%20Trigo%20Haza%20De%20Oros%20Bulto%20X%2050Kg%20(Harinas).png?locale=en",
+            "nombre": "Harina de trigo",
+            "precio": "2,200",
+            "stock": "55",
+            "proveedor": "Haz de oros",
+            "descripcion": "Harina de trigo todo uso en paquete de 50 kg"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_695665-MCO46381745183_062021-O.jpg",
+            "nombre": "Cereal de maíz",
+            "precio": "3,800",
+            "stock": "30",
+            "proveedor": "Kellogg's",
+            "descripcion": "Cereal de maíz enriquecido en paquete de 500 g"
+        },
+        {
+            "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/203012/7702129025157-1.jpg?v=637814193343800000",
+            "nombre": "Queso crema",
+            "precio": "6,200",
+            "stock": "40",
+            "proveedor": "Colanta",
+            "descripcion": "Queso crema para untar en envase de 400 g"
+        },
+        {
+            "imagen": "https://static.merqueo.com/images/products/large/30598e6a-3b2c-4b96-9da3-4cca68673542.jpg",
+            "nombre": "Café instantáneo",
+            "precio": "7,500",
+            "stock": "35",
+            "proveedor": "Nescafé",
+            "descripcion": "Café instantáneo de alta calidad en frasco de 170 g"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_895512-MCO49810532101_042022-O.jpg",
+            "nombre": "Aceitunas verdes",
+            "precio": "2,800",
+            "stock": "40",
+            "proveedor": "Karina",
+            "descripcion": "Aceitunas verdes sin hueso en frasco de 200 g"
+        },
+        {
+            "imagen": "https://solverde.com.co/wp-content/uploads/640.webp",
+            "nombre": "Aceite de coco",
+            "precio": "10,500",
+            "stock": "20",
+            "proveedor": "Funat",
+            "descripcion": "Aceite de coco orgánico en frasco de 200 ml"
+        },
+        {
+            "imagen": "https://images.kglobalservices.com/www.kelloggs.com.mx/es_mx/product/kic-3688/kicproductimage-118224_07501008018132_c1c1_es_mx.jpg",
+            "nombre": "Chocokrispis",
+            "precio": "7,000",
+            "stock": "100",
+            "proveedor": "Kellogg's",
+            "descripcion": "Cereal de arroz chocolatado en caja de 690 g"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_996769-MCO47791324896_102021-O.jpg",
+            "nombre": "Axion",
+            "precio": "12,000",
+            "stock": "40",
+            "proveedor": "Axion",
+            "descripcion": "Jabón de loza tarro de 850 g"
         }
     ]
 }
