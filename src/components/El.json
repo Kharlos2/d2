@@ -1,0 +1,220 @@
+{
+    "productos": [
+        {
+            "imagen": "https://supermercadomercafacil.com/wp-content/uploads/2021/02/Manzana-Surtida-domicilio-bucaramanga-floridablanca-cacique-tajamar-venta-de-frutas.jpg",
+            "nombre": "Manzana",
+            "precio": "2.000",
+            "stock": "53",
+            "proveedor": "Delicias del campo",
+            "descripcion": "Paquete de 6 manzanas"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/18256052-800-auto?v=638188447870370000&width=800&height=auto&aspect=true",
+            "nombre": "Coca cola 1500 ml",
+            "precio": "5.320",
+            "stock": "7",
+            "proveedor": "Coca Cola",
+            "descripcion": "Botella bebida Coca cola original"
+        },
+        {
+            "imagen": "https://media.istockphoto.com/id/1011356342/es/foto/arroz-en-bolsa-de-pl%C3%A1stico-transparente-aislada-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=9-gyO-yfjHOjJ8KHjI8tTFr3gtYCjVeHjrEDpv6_E8I=",
+            "nombre": "Arroz",
+            "precio": "2,500",
+            "stock": "100",
+            "proveedor": "Alimentos S.A.",
+            "descripcion": "Arroz blanco de grano largo"
+        },
+        {
+            "imagen": "https://thumbs.dreamstime.com/b/leche-en-un-envase-de-pl%C3%A1stico-8228181.jpg",
+            "nombre": "Leche",
+            "precio": "3,800",
+            "stock": "75",
+            "proveedor": "Colanta",
+            "descripcion": "Leche descremada en envase de 1 litro"
+        },
+        {
+            "imagen": "https://i.ytimg.com/vi/v8F6yJt1ULo/maxresdefault.jpg",
+            "nombre": "Pan",
+            "precio": "2,000",
+            "stock": "120",
+            "proveedor": "Panadería El Horno",
+            "descripcion": "Pan blanco recién horneado"
+        },
+        {
+            "imagen": "https://s.cornershopapp.com/product-images/4145181.jpg?versionId=M8.0WqXwR5VQl1p9NUVjV391266cFAkH",
+            "nombre": "Huevos",
+            "precio": "4,500",
+            "stock": "50",
+            "proveedor": "Granja Avícola",
+            "descripcion": "Huevos frescos de gallina"
+        },
+        {
+            "imagen": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_queso_blanco_colanta_250gr_lacteos_derivados_700x700.jpg?v=1620488127",
+            "nombre": "Queso",
+            "precio": "7,200",
+            "stock": "30",
+            "proveedor": "Colanta",
+            "descripcion": "Queso semicurado en lonchas"
+        },
+        {
+            "imagen": "https://carulla.vtexassets.com/arquivos/ids/9951847-800-auto?v=638053519405830000&width=800&height=auto&aspect=true",
+            "nombre": "Café molido",
+            "precio": "8,500",
+            "stock": "40",
+            "proveedor": "Sello rojo",
+            "descripcion": "Café colombiano molido de alta calidad"
+        },
+        {
+            "imagen": "https://www.multiexpress.com.co/wp-content/uploads/2020/08/709-Azucar-Manuelita-1Kg.jpg",
+            "nombre": "Azúcar",
+            "precio": "2,200",
+            "stock": "80",
+            "proveedor": "Manuelita",
+            "descripcion": "Azúcar refinada en paquete de 1 kg"
+        },
+        {
+            "imagen": "https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2001643.jpg",
+            "nombre": "Sal",
+            "precio": "1,500",
+            "stock": "90",
+            "proveedor": "Refisal",
+            "descripcion": "Sal de mesa en envase de 500 g"
+        },
+        {
+            "imagen": "https://mistiendas.com.co/601-large_default/jabon-rexona-x125-gr.jpg",
+            "nombre": "rexona",
+            "precio": "3,200",
+            "stock": "60",
+            "proveedor": "Productos de Aseo",
+            "descripcion": "Jabón de baño en barra de 100 g"
+        },
+        {
+            "imagen": "https://img.freepik.com/fotos-premium/pasta-trigo-duro-bolsa-lona-sobre-fondo-blanco-pasta-italiana-primer-plano_331695-3677.jpg",
+            "nombre": "Pasta de trigo",
+            "precio": "2,200",
+            "stock": "50",
+            "proveedor": "Pastas Deliciosas",
+            "descripcion": "Pasta de trigo en paquete de 500 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/18255650/Salsa-Soya-X-1100-822678_a.jpg?v=638188433690070000",
+            "nombre": "Salsa de soya",
+            "precio": "3,500",
+            "stock": "40",
+            "proveedor": "Aderezos",
+            "descripcion": "Salsa de soja tradicional en botella de 1000 ml"
+        },
+        {
+            "imagen": "https://www.kipclin.com/images/virtuemart/product/KIP-PQP-JABON00031-26%20(1).jpg",
+            "nombre": "Jabón líquido",
+            "precio": "2,000",
+            "stock": "60",
+            "proveedor": "PQP",
+            "descripcion": "Jabón líquido para manos en envase de 1000 ml"
+        },
+        {
+            "imagen": "https://www.farmalisto.com.mx/85092/comprar-pasta-de-dientes-colgate-doble-frescura-caja-con-tubo-con-100-ml-limpieza-dental-precio.jpg",
+            "nombre": "Pasta dental",
+            "precio": "3,200",
+            "stock": "55",
+            "proveedor": "Colgate",
+            "descripcion": "Pasta dental refrescante de 100 ml"
+        },
+        {
+            "imagen": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/455174-800-600?v=638086383670200000&width=800&height=600&aspect=true",
+            "nombre": "Detergente",
+            "precio": "4,500",
+            "stock": "45",
+            "proveedor": "Productos de Limpieza",
+            "descripcion": "Detergente líquido para ropa en botella de 2.8 litro"
+        },
+        {
+            "imagen": "https://tiendasyaco.vtexassets.com/arquivos/ids/157713/CCSO330ml-1000x1000.jpg?v=637964607876330000",
+            "nombre": "Gaseosa cola",
+            "precio": "1,500",
+            "stock": "70",
+            "proveedor": "Bebidas Refrescantes",
+            "descripcion": "Gaseosa cola en lata de 350 ml"
+        },
+        {
+            "imagen": "https://www.comedera.com/wp-content/uploads/2022/02/pan-de-salvado_shutterstock_49768897.jpg",
+            "nombre": "Pan integral",
+            "precio": "3,800",
+            "stock": "30",
+            "proveedor": "Panadería Saludable",
+            "descripcion": "Pan integral recién horneado en barra de 500 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/1975620/Carne-De-Hamburguesa-De-Pollo-Apanado-30494_b.png?v=637259077245600000",
+            "nombre": "Hamburguesas de pollo",
+            "precio": "7,200",
+            "stock": "20",
+            "proveedor": "Zenú",
+            "descripcion": "Hamburguesas de pollo en paquete de 5 unidades"
+        },
+        {
+            "imagen": "https://www.recetasderechupete.com/wp-content/uploads/2021/05/Mermelada-de-fresas-768x530.jpg",
+            "nombre": "Mermelada de fresa",
+            "precio": "4,000",
+            "stock": "40",
+            "proveedor": "Conservas Deliciosas",
+            "descripcion": "Mermelada de fresa en frasco de 250 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/13929564/Aceite-Vegetal-FRESCAMPO-900-ml-3257072_a.jpg?v=637944648771630000",
+            "nombre": "Aceite vegetal",
+            "precio": "5,200",
+            "stock": "25",
+            "proveedor": "Frescampo",
+            "descripcion": "Aceite vegetal para cocinar en botella de 900 ml"
+        },
+        {
+            "imagen": "https://locatelcolombia.vtexassets.com/arquivos/ids/226758/7702001044115_1_YOGURT-ORIGINAL-FRESA-X-200ML.jpg?v=637272305665930000",
+            "nombre": "Yogur de frutas",
+            "precio": "1,800",
+            "stock": "50",
+            "proveedor": "Alpina",
+            "descripcion": "Yogur de frutas variadas en envase individual de 200 g"
+        },
+        {
+            "imagen": "https://carulla.vtexassets.com/arquivos/ids/12163188/Sopa-Instantanea-Sabor-Costill-861933_a.jpg?v=638188413409700000",
+            "nombre": "Sopa instantánea",
+            "precio": "2,500",
+            "stock": "40",
+            "proveedor": "Aji-no-men",
+            "descripcion": "Sopa instantánea sabor costilla de res en sobre de 80 g"
+        },
+        {
+            "imagen": "https://interruedas.com/wp-content/uploads/2019/07/aluminio1-1-300x300.png",
+            "nombre": "Papel aluminio",
+            "precio": "3,200",
+            "stock": "30",
+            "proveedor": "Productos de Cocina",
+            "descripcion": "Rollo de papel aluminio resistente de 30 metros"
+        },
+        {
+            "imagen": "https://copservir.vtexassets.com/arquivos/ids/765087/CERVEZA-CORONA-EXTRA_F.png?v=637950273978830000",
+            "nombre": "Cerveza",
+            "precio": "2,000",
+            "stock": "60",
+            "proveedor": "Corona",
+            "descripcion": "Cerveza Corona de 355 ml"
+        },
+        {
+            "imagen": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2017%2F04%2F19%2Fgalletas-de-avena-con-pasas-y-nuez-2000.jpg&q=60",
+            "nombre": "Galletas de avena",
+            "precio": "2,800",
+            "stock": "45",
+            "proveedor": "Dulces Saludables",
+            "descripcion": "Galletas de avena y pasas en paquete de 200 g"
+        },
+        {
+            "imagen": "https://exitocol.vtexassets.com/arquivos/ids/13175415/Tomates-En-Cuadros-Naturales-Lata-X-794-gr-180568_a.jpg?v=637899495545730000",
+            "nombre": "Tomate enlatado",
+            "precio": "2,200",
+            "stock": "35",
+            "proveedor": "Hunts",
+            "descripcion": "Tomate pelado enlatado en lata de 400 g"
+        }
+    ]
+}
